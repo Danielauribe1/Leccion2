@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: rgb(33, 85, 53);
+}
+
+    div.contenedor{
+        position: relative;
+        border: 3px dashed rgb(146, 228, 166);
+        width: 40%;
+        margin: auto;
+        overflow: scroll;
+        height: 65px;
+    }
+   

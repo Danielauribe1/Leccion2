@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: rgb(219, 23, 144);
+}
+div.contenedor{
+    position: relative;
+    border: 3px dashed rgb(242, 147, 194);
+    width: 35%;
+    margin: auto;
+}
+img.imagen{
+    width: 100%;
+    opacity: 0.5;
+    background-image: url("/css/MF.jpg");
+}
+div.centro{
+    position: absolute;
+    top: 50%;
+    /*border: 1px solid blue;*/
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    
+}
